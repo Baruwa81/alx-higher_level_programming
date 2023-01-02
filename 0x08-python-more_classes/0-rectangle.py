@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+"""
+Module 0-rectangle
+Contains class Rectangle
+Empty class
+"""
+
+
+class Rectangle():
+    """
+    Defines empty class rectangle
+    """
+    pass
+Footer
+© 2023 GitHub, Inc.
